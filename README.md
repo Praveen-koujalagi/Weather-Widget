@@ -1,7 +1,6 @@
 # 🌤️ Weather Widget App
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://your-app-name.vercel.app)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/weather-app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://weather-widget-neon-six.vercel.app/)
 
 A modern, responsive weather application built with React that provides comprehensive weather information including current conditions, 15-day forecasts, and sunrise/sunset data.
 
