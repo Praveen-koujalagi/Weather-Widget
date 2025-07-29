@@ -107,10 +107,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Bug reports**: [Create an issue](https://github.com/Praveen-koujalagi/weather-app/issues)
-- 💡 **Feature requests**: [Create an issue](https://github.com/Praveen-koujalagi/weather-app/issues)
-- 📧 **Questions**: [Start a discussion](https://github.com/Praveen-koujalagi/weather-app/discussions)
+## 📞 Support
+
+- 🐛 **Bug reports**: [Create an issue](https://github.com/Praveen-koujalagi/Weather-Widget/issues)
+- 💡 **Feature requests**: [Create an issue](https://github.com/Praveen-koujalagi/Weather-Widget/issues)
+- 📧 **Questions**: [Start a discussion](https://github.com/Praveen-koujalagi/Weather-Widget/discussions)
 
 ---
 
-**Made with ❤️ and React** • [Live Demo](https://weather-widget-neon-six.vercel.app) • [Repository](https://github.com/Praveen-koujalagi/weather-app)
+**Made with ❤️ and React** • [Live Demo](https://weather-widget-neon-six.vercel.app) • [Repository](https://github.com/Praveen-koujalagi/Weather-Widget)
+
