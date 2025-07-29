@@ -64,70 +64,6 @@ Create an optimized production build:
 npm run build
 ```
 
-The build artifacts will be stored in the `dist/` directory, ready for deployment.
-
-## 🚀 Deployment
-
-### Deploy to Vercel (Recommended)
-
-#### Option 1: Deploy from GitHub (Automatic)
-1. **Push to GitHub**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/yourusername/weather-app.git
-   git push -u origin main
-   ```
-
-2. **Connect to Vercel**
-   - Go to [Vercel Dashboard](https://vercel.com/dashboard)
-   - Click "New Project"
-   - Import your GitHub repository
-   - Vercel will auto-detect Vite and configure build settings
-   - Click "Deploy"
-
-3. **Environment Variables**
-   - In Vercel dashboard, go to Project Settings → Environment Variables
-   - Add `VITE_WEATHER_API_KEY` with your OpenWeatherMap API key
-   - Redeploy for changes to take effect
-
-#### Option 2: Deploy via CLI
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel --prod
-```
-
-### Deploy to Netlify
-1. **Build the project**
-   ```bash
-   npm run build
-   ```
-
-2. **Deploy to Netlify**
-   - Drag and drop the `dist` folder to [Netlify Drop](https://app.netlify.com/drop)
-   - Or connect your GitHub repo for automatic deployments
-
-### Deploy to GitHub Pages
-```bash
-npm run build
-npm run deploy:gh-pages
-```
-
-## 🔧 Environment Variables
-
-For production deployment, create these environment variables:
-
-```env
-VITE_WEATHER_API_KEY=your_openweathermap_api_key
-```
-
-> ⚠️ **Important**: Never commit API keys to your repository. Use environment variables or secrets management.
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 19 with Hooks
@@ -171,10 +107,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Bug reports**: [Create an issue](https://github.com/yourusername/weather-app/issues)
-- 💡 **Feature requests**: [Create an issue](https://github.com/yourusername/weather-app/issues)
-- 📧 **Questions**: [Start a discussion](https://github.com/yourusername/weather-app/discussions)
+- 🐛 **Bug reports**: [Create an issue](https://github.com/Praveen-koujalagi/weather-app/issues)
+- 💡 **Feature requests**: [Create an issue](https://github.com/Praveen-koujalagi/weather-app/issues)
+- 📧 **Questions**: [Start a discussion](https://github.com/Praveen-koujalagi/weather-app/discussions)
 
 ---
 
-**Made with ❤️ and React** • [Live Demo](https://your-app-name.vercel.app) • [Repository](https://github.com/yourusername/weather-app)
+**Made with ❤️ and React** • [Live Demo](https://weather-widget-neon-six.vercel.app) • [Repository](https://github.com/Praveen-koujalagi/weather-app)
